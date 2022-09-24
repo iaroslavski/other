@@ -122,4 +122,5 @@ public class IPaddressCounter {
     private void out(Object object) {
         System.out.println(object);
     }
+    
 }
